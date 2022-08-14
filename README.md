@@ -1,2 +1,6 @@
-# Sorting-algorithms-in-C
-Implementation of sorting algorithms in C language.
+//Sorting algorithms implementation in C
+/*
+*code by: @IYB
+*this program is windows compatible only due to indcluding of windows.h library for UI purposes.
+*
+*/
